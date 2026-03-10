@@ -2,7 +2,7 @@
 
 A tiny distortion pedal PCB designed to be embedded inside a guitar. The board uses 1206 and THT components making it easily moddable; in addition it also includes pin sockets for transistors and op amp making it easy to swap out and try different components for different sounds!
 
-![[./attachments/Pasted image 20260309204506.png]]
+![img](./attachments/Pasted image 20260309204506.png)
 
 
 ---
@@ -11,13 +11,13 @@ A tiny distortion pedal PCB designed to be embedded inside a guitar. The board u
 
 Schematics pdf is available under the `/PCB` folder and the project's KiCad files can be found under `/PCB/kicad`.
 
-![[./attachments/Pasted image 20260309204400.png]]
+![img](./attachments/Pasted image 20260309204400.png)
 
 ---
 
 ## PCB
 
-![[./attachments/Pasted image 20260309204445.png]]
+![img](./attachments/Pasted image 20260309204445.png)
 
 ---
 
